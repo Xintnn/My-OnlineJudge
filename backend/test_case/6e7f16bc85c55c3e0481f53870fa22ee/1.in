@@ -1,0 +1,12 @@
+[] ++ []
+[] ++ [abc]
+[a,aeiou,hello] ++ []
+[] -- []
+[abc] -- []
+[] -- [abc,a,b,c]
+[a,de,bcd] ++ [a,aeiou,hello,bcd]
+[a,b,c,d,e,f,g] -- [h,i,j]
+[x,x,x,x,y,y,y,y,xxy,yyx,xyx,yxy,zz] -- [xy,yy,x,y,yx,xx,zz]
+[x,x,x,x,y,y,y,y] -- [y,y,y,y,x,x,x,x]
+[a,b,c,e,f,c,b,d,a] -- [a,e,d,c]
+.
