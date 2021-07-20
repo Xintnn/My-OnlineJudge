@@ -1,4 +1,6 @@
-本储存库上传的为个人OJ
-主题使用青岛OJ 安装请不顺请参考官方文档http://docs.onlinejudge.me/
+本存储库存储的是个人OJ:xintn.net:1010
 
-前端已经中文化,需要的可以自行下载进行封装
+主题使用青岛OJ,内含一些题目并以全部优化完成
+
+若安装失败请参照青岛OJ官方文档: [http://docs.onlinejudge.me/](http://docs.onlinejudge.me/#/onlinejudge/faq) 
+
